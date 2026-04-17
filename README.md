@@ -1,23 +1,38 @@
 📊 IBM HR Analytics: Employee Attrition & Performance
-Excited to share my Data Analyst project where I analyzed HR data to uncover key insights on employee attrition and workforce trends.
 
-🛠 Tools Used: Excel, SQL, Python, Power BI
-📊 Key Work:
-• Cleaned and prepared data in Excel
-• Performed analysis using SQL
-• Conducted EDA using Python
-• Built an interactive Power BI dashboard
+This project focuses on analyzing HR data to identify key factors driving employee attrition and improving workforce retention strategies.
 
-📌 Dashboard Highlights:
-• Attrition Rate & Employee KPIs
-• Department & Job Role Analysis
-• Overtime, Salary & Age Impact
-• Interactive filters for insights
+🛠 Tools & Technologies
+Excel (Data Cleaning & Preprocessing)
+SQL (Data Analysis & Querying)
+Python (Pandas, Matplotlib – Exploratory Data Analysis)
+Power BI (Dashboard & Data Visualization)
+🔍 Project Workflow
 
-💡 Key Insights:
-• Higher attrition observed in specific roles and departments
-• Overtime and low salary strongly impact attrition
+Cleaned and preprocessed raw HR data using Excel
+Performed SQL queries to analyze attrition trends across departments and roles
+Conducted Exploratory Data Analysis (EDA) using Python
+Built an interactive Power BI dashboard to track KPIs and visualize insights
+📊 Dashboard Highlights
 
-🚀 This project strengthened my skills in data analysis, visualization, and building business-focused dashboards.
+Attrition Rate & Key Employee KPIs
+Department-wise & Job Role Analysis
+Impact of Salary, Overtime, and Age
+Interactive filters for dynamic insights
 
-Open to opportunities and feedback 🤝
+💡 Key Insights
+Higher attrition observed among employees with low salary and high overtime
+Specific departments and job roles showed significantly higher turnover
+Employees aged 25–35 had higher attrition compared to senior employees
+
+🚀 Business Impact
+Recommended improving work-life balance and revising compensation strategies
+Suggested targeted retention plans for high-risk employee groups
+
+🔗 Project Link
+
+👉 Power BI Dashboard: [Paste link]
+GitHub Repository: [Paste repo link]
+
+📌 Conclusion
+This project enhanced my ability to perform end-to-end data analysis, generate actionable insights, and build business-focused dashboards.
