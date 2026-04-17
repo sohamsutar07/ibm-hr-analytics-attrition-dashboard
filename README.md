@@ -29,10 +29,5 @@ Employees aged 25–35 had higher attrition compared to senior employees
 Recommended improving work-life balance and revising compensation strategies
 Suggested targeted retention plans for high-risk employee groups
 
-🔗 Project Link
-
-👉 Power BI Dashboard: [Paste link]
-GitHub Repository: [Paste repo link]
-
 📌 Conclusion
 This project enhanced my ability to perform end-to-end data analysis, generate actionable insights, and build business-focused dashboards.
